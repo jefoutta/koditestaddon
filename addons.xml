@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.kodiaddon" name="Jefoutta" version="2.7.11" provider-name="Jefoutta">
+<addon id="plugin.video.kodiaddon" name="Jefoutta" version="1.0.0" provider-name="Jefoutta">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.libtorrent" optional="true"/>
