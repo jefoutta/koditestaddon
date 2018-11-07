@@ -33,7 +33,7 @@ compress_addons = True
 
 #Optional set a custom directory of where your addons are. False will use the current directory.
 # NOTE: the settings.py of repository aggregator will override this
-repo_root = False
+repo_root = "../kodiaddon"
 ########## End SETTINGS
 
 # check if repo-prep.py is being run standalone or called from another python file
